@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "06431FB1-DDF7-44C0-A970-ADD5CA7C0E3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C00CA54A-4A52-4D1B-BF87-DDA390FF4C9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52F5FE41-4B8A-47E5-BA49-8F990E0749BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C269BA02-C533-4EB1-B87A-BD98049B02D7"
+    },
+    {
+      "class": "group",
+      "id": "F2EBA54B-0E22-4998-B435-A427D50FCF59"
+    }
+  ],
+  "name": "Today",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7DB8F9A7-24CD-4E2F-A430-7AA510517198",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 189,
+    "width": 212,
+    "x": 62,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "02BFFA18-04C1-4667-84FD-31C1C0FFE1E6"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E18E198-6373-4F80-8409-42DBA781D4DB"
+    },
+    {
+      "class": "shapePath",
+      "id": "F2799517-8183-46A5-8DAA-0E9B2253CAC2"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E3564BB-107F-4220-8A48-F1AB2B4E7768"
+    },
+    {
+      "class": "shapePath",
+      "id": "2FEFB86A-16FD-4B13-8C86-1DEA3564AA12"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA075A77-0D56-431F-BEFB-820EA386EF95"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB931C01-9249-47B9-8529-F9FCF62F0796"
+    },
+    {
+      "class": "shapePath",
+      "id": "3DB42A2B-CADA-49EC-AFB6-9E157B27C9F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "D6166E1F-C85B-4AAD-8320-D9358271EFBB"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0F7178C-4CD7-4F76-BDFC-3CE2420547B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "A561D58E-305D-4798-9E80-941DBBDE7ECA"
+    },
+    {
+      "class": "shapePath",
+      "id": "33798692-41D1-483E-B6EC-EF33EB9880A6"
+    },
+    {
+      "class": "shapePath",
+      "id": "E95F0949-03AC-48A5-BD98-5F0BE1A95B73"
+    },
+    {
+      "class": "shapePath",
+      "id": "A92C89CD-1733-435F-BBA3-A9850F265F4C"
+    },
+    {
+      "class": "shapePath",
+      "id": "E92214F2-70BD-4B3B-BDA6-BB5AFC7566CB"
+    },
+    {
+      "class": "shapePath",
+      "id": "9FDC595B-BD66-45CE-88A2-C688281DF64C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1703762-9FE7-44A8-BE39-2479473DAC71"
+    },
+    {
+      "class": "shapePath",
+      "id": "FC760CCC-2CF2-432B-8462-C167FFD81260"
+    },
+    {
+      "class": "shapePath",
+      "id": "91072AB6-53A2-45E7-AECD-33BE21A68CE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "3BE9E396-3600-41AD-8045-170836CCAE5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "00B50D67-1255-4435-90F0-F5BAC0300180"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3EB1220-9F2A-4034-89A0-89E7B076B3D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "04101436-D98E-40D2-8206-C1D10EC80757"
+    },
+    {
+      "class": "shapePath",
+      "id": "2D355CF2-02D2-4C79-9A65-FD4F62BE5ACC"
+    }
+  ],
+  "name": "Heart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.3,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4000000000000001,
+          "green": 0.4666666666666667,
+          "red": 0.996078431372549
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"anchorX\":\"flex-start\",\"anchorY\":\"flex-start\",\"bottom\":null,\"direction\":\"column\",\"height\":\"fixed\",\"isBounds\":false,\"IsEnabled\":true,\"left\":null,\"margin\":[],\"padding\":[],\"position\":\"relative\",\"right\":null,\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"top\":null,\"width\":\"fixed\"}"
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

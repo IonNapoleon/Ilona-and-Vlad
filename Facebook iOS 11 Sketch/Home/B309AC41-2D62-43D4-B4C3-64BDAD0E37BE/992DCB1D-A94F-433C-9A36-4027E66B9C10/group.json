@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "992DCB1D-A94F-433C-9A36-4027E66B9C10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "06431FB1-DDF7-44C0-A970-ADD5CA7C0E3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E4D15D1-F287-4C52-B8EB-4CBDDB433389"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2D0BBC9-06DD-4959-8CC5-AD3032ECF8BB"
+    }
+  ],
+  "name": "App Store – Today",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
