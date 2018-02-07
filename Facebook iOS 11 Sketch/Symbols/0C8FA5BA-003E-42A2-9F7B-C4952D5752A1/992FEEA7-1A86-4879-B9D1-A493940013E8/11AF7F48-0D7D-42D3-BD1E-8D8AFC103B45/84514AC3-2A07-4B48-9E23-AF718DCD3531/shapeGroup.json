@@ -70,8 +70,8 @@
         "fillType": 1,
         "gradient": {
           "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.32266791044776122, 0}",
+          "elipseLength": 1,
+          "from": "{0.5, 0}",
           "gradientType": 0,
           "shouldSmoothenOpacity": false,
           "stops": [
@@ -80,9 +80,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.3529411764705883,
-                "green": 0.7098039215686275,
-                "red": 0.996078431372549
+                "blue": 0.374436616897583,
+                "green": 0.317264050245285,
+                "red": 0.9606321454048157
               },
               "position": 0
             },
@@ -91,9 +91,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.407843137254902,
-                "green": 0.407843137254902,
-                "red": 0.9921568627450981
+                "blue": 0.1070586666464806,
+                "green": 0.01541697140783072,
+                "red": 0.623913049697876
               },
               "position": 1
             }
